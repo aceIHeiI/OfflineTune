@@ -1,2 +1,64 @@
-# OfflineTune
-Reproductor de música offline para Android, sin anuncios ni suscripciones. Descarga el APK en Releases.
+<p align="center">
+  <img src="assets/banner.jpg" alt="OfflineTune — Tu música, sin internet y sin anuncios" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/aceIHeiI/OfflineTune/releases/latest"><img src="https://img.shields.io/github/v/release/aceIHeiI/OfflineTune?label=Descargar%20APK&style=for-the-badge&color=7c6ff7" alt="Descargar APK"></a>
+  <a href="https://github.com/ImranR98/Obtainium"><img src="https://img.shields.io/badge/Actualizaciones-Obtainium-a78bfa?style=for-the-badge" alt="Obtainium"></a>
+  <a href="https://ko-fi.com/iheii"><img src="https://img.shields.io/badge/Apoyar-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-8.0%2B-3ddc84?logo=android&logoColor=white" alt="Android 8.0+">
+  <img src="https://img.shields.io/github/downloads/aceIHeiI/OfflineTune/total?label=descargas" alt="Descargas">
+</p>
+
+**OfflineTune** es un reproductor de música para Android pensado para escuchar **sin datos móviles**: en el metro, en el gimnasio, de viaje o en el coche.
+
+✅ Sin anuncios  ✅ Sin suscripciones  ✅ Sin límite de canciones
+
+## 📱 Capturas
+
+<p align="center">
+  <img src="assets/1-biblioteca.jpg" width="23%" alt="Biblioteca">
+  <img src="assets/2-reproductor.jpg" width="23%" alt="Reproductor">
+  <img src="assets/3-ajustes-apariencia.jpg" width="23%" alt="Temas y modo coche">
+  <img src="assets/4-ajustes-reproduccion.jpg" width="23%" alt="Ajustes de reproducción">
+</p>
+
+## ✨ Funciones
+
+- ✈️ **100% offline** — tu música se reproduce sin conexión.
+- 📂 **Importa tu música** — agrega los MP3/M4A que ya tienes en el teléfono.
+- 🎤 **Letras sincronizadas** que se resaltan mientras suena la canción.
+- 📊 **Forma de onda interactiva** — toca cualquier punto para saltar ahí.
+- 🚗 **Modo Coche** con controles grandes, y modo especial para **estéreos Android de 1024×600**.
+- 🎨 **Temas** Claro, Oscuro y AMOLED, con 9 colores o uno personalizado.
+- 📋 **Listas inteligentes** — más escuchadas, añadidas recientemente, sin escuchar.
+- 📈 **Estadísticas** de reproducción y racha de días.
+- 🎚️ Fundido entre canciones, normalización de volumen, velocidad y temporizador para dormir.
+- ⏯️ Recuerda en qué parte de cada canción te quedaste.
+
+## ⬇️ Instalación
+
+1. Ve a **[Releases](https://github.com/aceIHeiI/OfflineTune/releases/latest)** y descarga el archivo `.apk`.
+2. Ábrelo en tu teléfono y permite instalar apps de fuentes desconocidas si te lo pide.
+3. Para actualizar, instala la versión nueva encima: **no pierdes tus canciones**.
+
+### 🔔 Actualizaciones automáticas
+
+Instala **[Obtainium](https://github.com/ImranR98/Obtainium)**, toca **Agregar app** y pega:
+
+```
+https://github.com/aceIHeiI/OfflineTune
+```
+
+Obtainium te avisará cada vez que salga una versión nueva.
+
+## 💬 ¿Errores o ideas?
+
+Abre un **[Issue](https://github.com/aceIHeiI/OfflineTune/issues)** y cuéntame qué pasó o qué te gustaría ver. ¡Leo todos!
+
+## ☕ Apoya el proyecto
+
+OfflineTune la hago yo solo en mi tiempo libre. Si te sirve, un café en **[Ko-fi](https://ko-fi.com/iheii)** me ayuda a mantenerla gratis y sin anuncios. 💜
