@@ -36,7 +36,11 @@
 - 🎨 **Temas** Claro, Oscuro y AMOLED, con 9 colores o uno personalizado.
 - 📋 **Listas inteligentes** — más escuchadas, añadidas recientemente, sin escuchar.
 - 📈 **Estadísticas** de reproducción y racha de días.
-- 🎚️ Fundido entre canciones, normalización de volumen, velocidad y temporizador para dormir.
+- 🔊 **Volumen parejo** — normalización real: todas tus canciones suenan igual de fuerte.
+- 💾 **Copia de seguridad** — exporta tu biblioteca y recupérala con un botón en otro teléfono.
+- 🌎 **Español / English** — cambia el idioma desde Ajustes.
+- 🔔 **Descargas masivas tranquilas** — de 3 en 3, con un solo aviso y botón para cancelar.
+- 🎚️ Fundido entre canciones, velocidad y temporizador para dormir.
 - ⏯️ Recuerda en qué parte de cada canción te quedaste.
 
 ## ⬇️ Instalación
@@ -45,9 +49,11 @@
 2. Ábrelo en tu teléfono y permite instalar apps de fuentes desconocidas si te lo pide.
 3. Para actualizar, instala la versión nueva encima: **no pierdes tus canciones**.
 
-### 🔔 Actualizaciones automáticas
+### 🔔 Actualizaciones
 
-Instala **[Obtainium](https://github.com/ImranR98/Obtainium)**, toca **Agregar app** y pega:
+Desde la **v2.2.4** la app te avisa cuando hay una versión nueva y puedes actualizarla en **Ajustes › Acerca de › Buscar actualización**.
+
+También puedes usar **[Obtainium](https://github.com/ImranR98/Obtainium)**: instálalo, toca **Agregar app** y pega:
 
 ```
 https://github.com/aceIHeiI/OfflineTune
