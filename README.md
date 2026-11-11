@@ -20,8 +20,14 @@
 ## 📱 Capturas
 
 <p align="center">
+  <img src="assets/v24-1-inicio.jpg" width="23%" alt="Inicio">
+  <img src="assets/v24-2-video.jpg" width="23%" alt="Videos">
+  <img src="assets/v24-3-reproductor.jpg" width="23%" alt="Reproductor">
+  <img src="assets/v24-4-lista.jpg" width="23%" alt="Listas">
+</p>
+
+<p align="center">
   <img src="assets/1-biblioteca.jpg" width="23%" alt="Biblioteca">
-  <img src="assets/2-reproductor.jpg" width="23%" alt="Reproductor">
   <img src="assets/3-ajustes-apariencia.jpg" width="23%" alt="Temas y modo coche">
   <img src="assets/4-ajustes-reproduccion.jpg" width="23%" alt="Ajustes de reproducción">
 </p>
@@ -29,6 +35,10 @@
 ## ✨ Funciones
 
 - ✈️ **100% offline** — tu música se reproduce sin conexión.
+- 🎬 **Videos** — modo Canción | Video en Buscar, pantalla completa, subtítulos, mini reproductor e imagen en imagen.
+- 🏠 **Inicio** — seguir escuchando, Mix del día, tus listas y lo último que agregaste.
+- ✨ **Efecto cristal** en la barra de abajo (se puede apagar).
+- 📱 **Widget** con controles, progreso y el color de la portada.
 - 📂 **Importa tu música** — agrega los MP3/M4A que ya tienes en el teléfono.
 - 🎤 **Letras sincronizadas** que se resaltan mientras suena la canción.
 - 📊 **Forma de onda interactiva** — toca cualquier punto para saltar ahí.
