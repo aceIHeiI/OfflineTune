@@ -78,3 +78,13 @@ Abre un **[Issue](https://github.com/aceIHeiI/OfflineTune/issues)** y cuéntame 
 ## ☕ Apoya el proyecto
 
 OfflineTune la hago yo solo en mi tiempo libre. Si te sirve, un café en **[Ko-fi](https://ko-fi.com/iheii)** me ayuda a mantenerla gratis y sin anuncios. 💜
+
+## OfflineTune Car y Velora Drive
+
+Para llevar tu música y tus videos al estéreo del coche:
+
+**OfflineTune Car** es la edición de OfflineTune para el celular que se conecta con el estéreo. Descarga el archivo OfflineTune-Car en [Releases](https://github.com/aceIHeiI/OfflineTune/releases/latest). Solo se distribuye por GitHub.
+
+**[Velora Drive](https://github.com/aceIHeiI/VeloraDrive)** es el launcher para estéreos Android que recibe la música, la portada y el video desde OfflineTune Car por el hotspot del celular.
+
+No mires video ni uses el celular manejando.
