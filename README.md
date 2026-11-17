@@ -79,12 +79,40 @@ Abre un **[Issue](https://github.com/aceIHeiI/OfflineTune/issues)** y cuéntame 
 
 OfflineTune la hago yo solo en mi tiempo libre. Si te sirve, un café en **[Ko-fi](https://ko-fi.com/iheii)** me ayuda a mantenerla gratis y sin anuncios. 💜
 
-## OfflineTune Car y Velora Drive
+## 🚗 OfflineTune Car + Velora Drive
 
-Para llevar tu música y tus videos al estéreo del coche:
+Lleva tu música y tus videos al estéreo Android de tu coche. **OfflineTune Car** corre en tu celular y **[Velora Drive](https://github.com/aceIHeiI/VeloraDrive)** es el launcher que va en el estéreo.
 
-**OfflineTune Car** es la edición de OfflineTune para el celular que se conecta con el estéreo. Descarga el archivo OfflineTune-Car en [Releases](https://github.com/aceIHeiI/OfflineTune/releases/latest). Solo se distribuye por GitHub.
+<p align="center">
+  <img src="assets/car-1-ajustes-conexion.jpg" width="30%" alt="Ajustes › Reproducción › Conexión con el coche">
+  <img src="assets/car-2-ver-en-el-coche.jpg" width="30%" alt="Reproductor con el botón Ver en el coche">
+</p>
+<p align="center">
+  <img src="assets/car-3-velora-principal.jpg" width="70%" alt="Velora Drive mostrando la canción del celular">
+</p>
 
-**[Velora Drive](https://github.com/aceIHeiI/VeloraDrive)** es el launcher para estéreos Android que recibe la música, la portada y el video desde OfflineTune Car por el hotspot del celular.
+### Cómo conectarlos (solo la primera vez)
+
+1. **Instala** [OfflineTune Car](https://github.com/aceIHeiI/OfflineTune/releases/latest) (`OfflineTune-Car-v….apk`) en el celular y [Velora Drive](https://github.com/aceIHeiI/VeloraDrive/releases/latest) en el estéreo.
+2. **Pon el celular y el estéreo en la misma red WiFi.** Lo más estable: enciende el *hotspot* del celular con un nombre y contraseña fijos y guárdalo una vez en el estéreo.
+3. En el celular abre OfflineTune Car y ve a **Ajustes › Reproducción › Conexión con el coche**. Deja el interruptor encendido y apunta el **código de 4 dígitos**.
+4. En el estéreo abre Velora Drive, entra a **Ajustes › Celular** y escribe ese código.
+5. **Conecta el Bluetooth del celular al estéreo** (el audio sale por Bluetooth).
+
+Listo: Velora dirá "Conectado" y verás la canción, la portada y el progreso. Desde el estéreo puedes pausar, cambiar de canción, subir el volumen, elegir un preset de audio y encender el Bass Boost.
+
+### Qué viaja por dónde
+
+- **Bluetooth:** el sonido de la música (igual que cualquier celular con un estéreo).
+- **WiFi:** solo los controles, el nombre de la canción, la portada y el video. Todo se queda en tu red local; no pasa por internet.
+- **Video:** en el reproductor toca **Ver en el coche** y el video se abre en el estéreo. Empieza en calidad mínima (144p) para no trabarse y puedes cambiarla desde el estéreo. Úsalo solo con el coche detenido.
+
+### Si algo no funciona
+
+- **"Código incorrecto":** vuelve a escribir el código tal como aparece en el celular. Si pulsaste *Nuevo código*, hay que escribir el nuevo.
+- **"Reconectando…":** el estéreo conserva la última canción y reintenta solo. Revisa que el celular siga en la misma red y que OfflineTune Car no esté cerrada por el ahorro de batería.
+- **No hay sonido:** el audio no va por WiFi. Conecta el Bluetooth del celular al estéreo.
+
+> ⚠️ **Probado en emuladores.** Hasta ahora las dos apps se probaron conectadas entre dos emuladores de Android. Todavía no se ha probado en un coche real el audio por Bluetooth, Android Auto, el celular bloqueado ni el cambio de red con el hotspot del estéreo. Si lo pruebas, cuéntame en un [Issue](https://github.com/aceIHeiI/OfflineTune/issues).
 
 No mires video ni uses el celular manejando.
