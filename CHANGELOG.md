@@ -2,6 +2,23 @@
 
 Todos los cambios importantes de OfflineTune.
 
+## [2.4.4] - 2026-11-18
+
+### Añadido
+- **Mini reproductor nuevo** con tres estilos a elegir en Ajustes › Apariencia: **A** tarjeta flotante, **B** barra plana y **C** color de la portada (degradado, resplandor, progreso y play con el color del disco, y un ecualizador). El C es el predeterminado y luce muchísimo en negro AMOLED. Ahora solo se ve un mini reproductor a la vez.
+- **OfflineTune Car + Velora Drive:** el siguiente y el anterior del estéreo siguen la cola del celular, al terminar un video pasa solo al siguiente, y si cambias de canción en el celular el video nuevo llega al coche sin volver a pulsar "Ver en el coche".
+- En **Buscar › Videos**: botones **Reproducir todo** y **Aleatorio**. Al mandar un resultado al coche, el siguiente, el anterior y el fin del video siguen la lista de la búsqueda (antes saltaba a otro video).
+- El mini reproductor del coche abre una hoja con el video que está en el coche (antes abría la última canción del celular).
+- La **X** del mini reproductor del celular también cierra el video en Velora, y desde el celular puedes pausar o reanudar el video del coche.
+- Al activar la conexión en Xiaomi, Samsung y otras marcas, un aviso explica cómo permitir la ejecución en segundo plano para que no se corte con el celular bloqueado.
+
+### Corregido
+- La posición del video en el coche se refleja en el celular cada segundo (antes cada 5), también en modo Canción.
+- La notificación "Seguir viendo en el celular" ya no se queda pegada: se quita al reconectar el coche, al abrir la app o a los 10 minutos.
+- En pantallas muy angostas el mini reproductor deja más espacio al título.
+
+> Probado en emuladores. Aún sin probar en un coche real: audio por Bluetooth, Android Auto, celular bloqueado y cambio de WiFi con el hotspot del estéreo.
+
 ## [2.4.3] - 2026-11-17
 
 ### Corregido
