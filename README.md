@@ -38,6 +38,7 @@
 
 ## ✨ Funciones
 
+- 📺 **Video sobre Android Auto** — con OfflineTune Car + Velora Drive, el video de tu celular se abre encima de Android Auto en el estéreo y, con un toque, se hace una ventanita flotante para que sigas viendo Google Maps.
 - ✈️ **100% offline** — tu música se reproduce sin conexión.
 - 🎬 **Videos** — modo Canción | Video en Buscar, pantalla completa, subtítulos, mini reproductor e imagen en imagen.
 - 🏠 **Inicio** — seguir escuchando, Mix del día, tus listas y lo último que agregaste.
@@ -86,7 +87,18 @@ OfflineTune la hago yo solo en mi tiempo libre. Si te sirve, un café en **[Ko-f
 
 ## 🚗 OfflineTune Car + Velora Drive
 
-Lleva tu música y tus videos al estéreo Android de tu coche. **OfflineTune Car** corre en tu celular y **[Velora Drive](https://github.com/aceIHeiI/VeloraDrive)** es el launcher que va en el estéreo.
+### 📺 Video sobre Android Auto, sin dejar el mapa
+
+Manda un video de tu celular al estéreo y se abre **encima de Android Auto**. Con un toque lo conviertes en una **ventanita flotante** y sigues viendo **Google Maps** mientras suena. Si cambias de video o avanzas la lista desde el celular, la ventana **no se maximiza** ni te tapa el mapa.
+
+<p align="center">
+  <img src="assets/v244-android-auto-2.jpg" width="62%" alt="El video de OfflineTune flotando sobre Google Maps en Android Auto">
+  <img src="assets/v244-celular-ver-en-el-coche.jpg" width="25%" alt="En el celular: botón Ver en el coche">
+</p>
+
+⚠️ Ve videos solo con el coche detenido.
+
+Además de eso, lleva tu música y tus videos al estéreo Android de tu coche. **OfflineTune Car** corre en tu celular y **[Velora Drive](https://github.com/aceIHeiI/VeloraDrive)** es el launcher que va en el estéreo.
 
 <p align="center">
   <img src="assets/car-1-ajustes-conexion.jpg" width="30%" alt="Ajustes › Reproducción › Conexión con el coche">
