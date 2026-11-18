@@ -32,11 +32,16 @@
   <img src="assets/4-ajustes-reproduccion.jpg" width="23%" alt="Ajustes de reproducción">
 </p>
 
+<p align="center">
+  <img src="assets/v244-mini-estilos.jpg" width="100%" alt="Mini reproductor: A tarjeta flotante, B barra plana y C color de la portada">
+</p>
+
 ## ✨ Funciones
 
 - ✈️ **100% offline** — tu música se reproduce sin conexión.
 - 🎬 **Videos** — modo Canción | Video en Buscar, pantalla completa, subtítulos, mini reproductor e imagen en imagen.
 - 🏠 **Inicio** — seguir escuchando, Mix del día, tus listas y lo último que agregaste.
+- 🎨 **Mini reproductor con 3 estilos** — tarjeta flotante, barra plana o **color de la portada** (el predeterminado, precioso en negro AMOLED). Se elige en Ajustes › Apariencia.
 - ✨ **Efecto cristal** en la barra de abajo (se puede apagar).
 - 📱 **Widget** con controles, progreso y el color de la portada.
 - 📂 **Importa tu música** — agrega los MP3/M4A que ya tienes en el teléfono.
@@ -90,6 +95,17 @@ Lleva tu música y tus videos al estéreo Android de tu coche. **OfflineTune Car
 <p align="center">
   <img src="assets/car-3-velora-principal.jpg" width="70%" alt="Velora Drive mostrando la canción del celular">
 </p>
+
+<p align="center">
+  <img src="assets/v244-launcher-video.jpg" width="90%" alt="El video sigue en una ventana mini sobre el launcher de Velora">
+</p>
+<p align="center">
+  <img src="assets/v244-buscar-reproducir-todo.jpg" width="30%" alt="Buscar › Videos con Reproducir todo y Aleatorio">
+  <img src="assets/v244-hoja-coche.jpg" width="30%" alt="Hoja del video que está en el coche">
+  <img src="assets/v244-video-completo.jpg" width="38%" alt="Video a pantalla completa en Velora">
+</p>
+
+En **Buscar › Videos** toca **Reproducir todo** (o **Aleatorio**) y manda la lista al coche: el siguiente, el anterior y el fin de cada video siguen esa lista. Al tocar el mini reproductor del celular se abre una hoja con lo que está sonando en el coche, y la X lo cierra también en el estéreo. Si dejas el video en la ventana mini de Velora, al cambiar de video no se maximiza.
 
 ### Cómo conectarlos (solo la primera vez)
 
