@@ -17,7 +17,7 @@ Todos los cambios importantes de OfflineTune.
 - La notificación "Seguir viendo en el celular" ya no se queda pegada: se quita al reconectar el coche, al abrir la app o a los 10 minutos.
 - En pantallas muy angostas el mini reproductor deja más espacio al título.
 
-> Probado en emuladores. Aún sin probar en un coche real: audio por Bluetooth, Android Auto, celular bloqueado y cambio de WiFi con el hotspot del estéreo.
+✅ **Probado en un celular y un estéreo Android reales.** Si encuentras algo raro, cuéntame en un [Issue](https://github.com/aceIHeiI/OfflineTune/issues).
 
 ## [2.4.3] - 2026-11-17
 
