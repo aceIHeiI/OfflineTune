@@ -129,6 +129,6 @@ Listo: Velora dirá "Conectado" y verás la canción, la portada y el progreso. 
 - **"Reconectando…":** el estéreo conserva la última canción y reintenta solo. Revisa que el celular siga en la misma red y que OfflineTune Car no esté cerrada por el ahorro de batería.
 - **No hay sonido:** el audio no va por WiFi. Conecta el Bluetooth del celular al estéreo.
 
-> ⚠️ **Probado en emuladores.** Hasta ahora las dos apps se probaron conectadas entre dos emuladores de Android. Todavía no se ha probado en un coche real el audio por Bluetooth, Android Auto, el celular bloqueado ni el cambio de red con el hotspot del estéreo. Si lo pruebas, cuéntame en un [Issue](https://github.com/aceIHeiI/OfflineTune/issues).
+✅ **Probado en un celular y un estéreo Android reales.** Si encuentras algo raro, cuéntame en un [Issue](https://github.com/aceIHeiI/OfflineTune/issues).
 
 No mires video ni uses el celular manejando.
