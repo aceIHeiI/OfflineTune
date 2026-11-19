@@ -17,6 +17,13 @@
 
 ✅ Sin anuncios  ✅ Sin suscripciones  ✅ Sin límite de canciones
 
+### ⬇️ ¿Qué descargo?
+
+| Quiero… | Descargo |
+|---|---|
+| **Usar OfflineTune en mi celular** (lo que casi todos quieren) | **`OfflineTune-vX.apk`** en [Releases](https://github.com/aceIHeiI/OfflineTune/releases/latest). Es la app principal y no necesitas nada más. |
+| **Llevar mi música y videos al estéreo Android del coche** (opcional) | Los complementos: `OfflineTune-Car-vX.apk` en el celular y [Velora Drive](https://github.com/aceIHeiI/VeloraDrive) en el estéreo. [Más abajo](#-opcional-llévala-al-coche) está la explicación. |
+
 ## 📱 Capturas
 
 <p align="center">
@@ -38,7 +45,7 @@
 
 ## ✨ Funciones
 
-- 📺 **Video sobre Android Auto** — con OfflineTune Car + Velora Drive, el video de tu celular se abre encima de Android Auto en el estéreo y, con un toque, se hace una ventanita flotante para que sigas viendo Google Maps.
+- 📺 **Video sobre Android Auto** — (opcional) con OfflineTune Car + Velora Drive, el video de tu celular se abre encima de Android Auto en el estéreo y, con un toque, se hace una ventanita flotante para que sigas viendo Google Maps.
 - ✈️ **100% offline** — tu música se reproduce sin conexión.
 - 🎬 **Videos** — modo Canción | Video en Buscar, pantalla completa, subtítulos, mini reproductor e imagen en imagen.
 - 🏠 **Inicio** — seguir escuchando, Mix del día, tus listas y lo último que agregaste.
@@ -85,7 +92,9 @@ Abre un **[Issue](https://github.com/aceIHeiI/OfflineTune/issues)** y cuéntame 
 
 OfflineTune la hago yo solo en mi tiempo libre. Si te sirve, un café en **[Ko-fi](https://ko-fi.com/iheii)** me ayuda a mantenerla gratis y sin anuncios. 💜
 
-## 🚗 OfflineTune Car + Velora Drive
+## 🚗 Opcional: llévala al coche
+
+Esto es un **complemento**: la app principal es OfflineTune y funciona sola. Si además tienes un estéreo Android en tu coche, estos dos archivos la conectan con él: **OfflineTune Car** (en el celular) y **Velora Drive** (en el estéreo).
 
 ### 📺 Video sobre Android Auto, sin dejar el mapa
 
