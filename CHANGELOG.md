@@ -2,6 +2,31 @@
 
 Todos los cambios importantes de OfflineTune.
 
+## [2.4.5] - 2026-11-20
+
+### Añadido
+- **Velora Drive 1.0.3 en inglés** con selector de idioma en Ajustes › Pantalla (Automático, Español, English). La tarjeta «Conexión con el coche» de OfflineTune Car se traduce al inglés.
+- **Cola automática con mix:** al empezar la última canción de la cola, la app agrega canciones parecidas (el mix de YouTube de esa canción; sin internet, descargadas del mismo género o artista) para que la música no se detenga. Quita repetidas y videos larguísimos, y limita cada artista. No se activa con la repetición encendida. Usa el interruptor ya existente «Cola automática» en Ajustes (activado por defecto). Funciona también en Android Auto.
+- **Página del artista:** al tocar la tarjeta «Artista / Canal» en Buscar se abre su canal con las pestañas **Principal**, **Videos** (lo más reciente primero, con más al bajar) y **Playlists**, con Reproducir todo y Aleatorio.
+- **Preset de audio por género** (Ajustes, apagado por defecto): cambia el ecualizador según el género de cada canción descargada; si no tiene género conocido se deja el preset actual.
+- **Velora Drive:** al tener un video en pantalla completa o en ventana mini, la burbuja de música se oculta (antes tapaba el video) y la ventana mini muestra anterior, pausa y siguiente.
+
+### Corregido
+- **OfflineTune Car + Velora Drive:** si el coche se desconecta con un video en marcha, el celular ya no se queda creyendo que está "en el coche": a los 10 s vuelve a reproducir canciones y el mini deja de decir "En el coche". Antes una canción en línea podía quedar pausada en 0:00.
+- Con un video en el coche, los botones de medios de **Android Auto, el volante, los auriculares, la notificación y los botones de Velora** (anterior, siguiente, pausa) mandan al video y siguen la lista de resultados. Antes movían la música y mandaban al coche el video de otra canción.
+- La tarjeta de Android Auto ya no muestra los botones de **±10 s** por la sesión de video: con un video en el coche esa sesión no se crea, y con Android Auto muestra anterior y siguiente.
+- Una canción que no se puede reproducir ya no borra la lista de resultados: solo sale el aviso de arriba.
+- El **volumen del video** ahora se iguala con el de la música (antes sonaba mucho más fuerte), y la música normalizada sube a un objetivo más alto (-11 LUFS) para no quedar baja.
+- Si mandas dos videos seguidos al coche, al cerrarlos la música se reanuda como corresponde.
+- Si el reproductor no está listo al activar la conexión, el enlace con el coche reintenta solo.
+
+### Seguridad
+- **Código de enlace:** después de 5 intentos equivocados desde un mismo dispositivo, el celular lo bloquea 1 minuto, y el bloqueo se duplica en cada reincidencia (hasta 1 hora). Los códigos nuevos son de **6 dígitos**; los de 4 ya emparejados siguen funcionando. Cambia en OfflineTune Car y Velora Drive a la vez.
+- El código de enlace ya no viaja en las copias de seguridad de Android.
+
+### Cambiado
+- Extractor de YouTube **NewPipeExtractor 0.27.1** (antes 0.26.5) y Java 17. Ahora los videos no disponibles muestran el motivo real de YouTube y se marcan "No disponible en YouTube".
+
 ## [2.4.4] - 2026-11-18
 
 ### Añadido

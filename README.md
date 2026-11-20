@@ -56,6 +56,7 @@
 - 🎤 **Letras sincronizadas** que se resaltan mientras suena la canción.
 - 📊 **Forma de onda interactiva** — toca cualquier punto para saltar ahí.
 - 🚗 **Modo Coche** con controles grandes, y modo especial para **estéreos Android de 1024×600**.
+- 🎤 **Página del artista** — toca un artista en Buscar y abre su canal con **Principal**, **Videos** (lo más reciente primero) y **Playlists**; al terminar una canción, la cola sigue sola con un mix de canciones parecidas.
 - 🎨 **Temas** Claro, Oscuro y AMOLED, con 9 colores o uno personalizado.
 - 📋 **Listas inteligentes** — más escuchadas, añadidas recientemente, sin escuchar.
 - 📈 **Estadísticas** de reproducción y racha de días.
