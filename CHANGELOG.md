@@ -2,6 +2,14 @@
 
 Todos los cambios importantes de OfflineTune.
 
+## [2.4.8] - 2026-11-20
+
+### Corregido
+- **El mini reproductor no se cerraba:** al tocar la **X** (con música sonando, en pausa o con un video en el coche) el mini volvía a aparecer a los pocos instantes. Ahora la X cierra la reproducción de verdad, también «Cerrar en el coche».
+- **Singular y plural:** «1 canción», «1 artista», «1 álbum» (antes decía «1 canciones»), en español e inglés y en las listas de Android Auto.
+- **Búsqueda sin internet:** ahora dice «Sin conexión. Revisa tu internet e inténtalo de nuevo.» en lugar del error técnico en inglés.
+- **Letra grande del sistema:** las etiquetas de la barra de abajo ya no se recortan.
+
 ## [2.4.7] - 2026-11-20
 
 ### Corregido
