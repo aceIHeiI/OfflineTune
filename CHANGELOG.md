@@ -2,6 +2,11 @@
 
 Todos los cambios importantes de OfflineTune.
 
+## [2.4.6] - 2026-11-20
+
+### Corregido
+- **Buscar un artista:** su tarjeta «Artista / Canal» ya sale **primero** cuando coincide con lo que escribiste (por ejemplo «xenon» → OficialXenon), como en YouTube, y dice «Toca para ver videos y playlists». Antes quedaba mezclada entre los resultados y parecía que no existía.
+
 ## [2.4.5] - 2026-11-20
 
 ### Añadido
