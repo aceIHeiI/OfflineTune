@@ -2,6 +2,12 @@
 
 Todos los cambios importantes de OfflineTune.
 
+## [2.4.7] - 2026-11-20
+
+### Corregido
+- **Buscar un artista:** su tarjeta «Artista / Canal» ahora sale **primero** también mientras escribes (panel en vivo) y en la pestaña **Videos**, además de la lista completa. Al tocarla se abre su página con **Principal**, **Videos** y **Playlists**.
+- Se elige el canal que realmente sube los videos de la búsqueda («xenon» → OficialXenon), sin confundirlo con canales automáticos «- Topic» ni con otros que se llaman igual.
+
 ## [2.4.6] - 2026-11-20
 
 ### Corregido
