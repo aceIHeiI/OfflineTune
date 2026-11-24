@@ -106,7 +106,7 @@ Manda un video de tu celular al estéreo y se abre **encima de Android Auto**. C
   <img src="assets/v244-celular-ver-en-el-coche.jpg" width="25%" alt="En el celular: botón Ver en el coche">
 </p>
 
-⚠️ Ve videos solo con el coche detenido.
+> ℹ️ El video está pensado para **pasajeros o con el coche estacionado**. La app no lo bloquea por velocidad; cada persona es responsable del uso que le da.
 
 Además de eso, lleva tu música y tus videos al estéreo Android de tu coche. **OfflineTune Car** corre en tu celular y **[Velora Drive](https://github.com/aceIHeiI/VeloraDrive)** es el launcher que va en el estéreo.
 
@@ -143,7 +143,7 @@ Listo: Velora dirá "Conectado" y verás la canción, la portada y el progreso. 
 
 - **Bluetooth:** el sonido de la música (igual que cualquier celular con un estéreo).
 - **WiFi:** solo los controles, el nombre de la canción, la portada y el video. Todo se queda en tu red local; no pasa por internet.
-- **Video:** en el reproductor toca **Ver en el coche** y el video se abre en el estéreo. Empieza en calidad mínima (144p) para no trabarse y puedes cambiarla desde el estéreo. Úsalo solo con el coche detenido.
+- **Video:** en el reproductor toca **Ver en el coche** y el video se abre en el estéreo. Empieza en calidad mínima (144p) para no trabarse y puedes cambiarla desde el estéreo. Está pensado para pasajeros o con el coche detenido; cada persona es responsable de su uso.
 
 ### Si algo no funciona
 
@@ -153,4 +153,4 @@ Listo: Velora dirá "Conectado" y verás la canción, la portada y el progreso. 
 
 ✅ **Probado en un celular y un estéreo Android reales.** Si encuentras algo raro, cuéntame en un [Issue](https://github.com/aceIHeiI/OfflineTune/issues).
 
-No mires video ni uses el celular manejando.
+Cada persona es responsable del uso que le da a la app y de cumplir las leyes de su país.
